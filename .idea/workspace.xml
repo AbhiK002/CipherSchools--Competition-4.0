@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Comp 4.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 1 Problem 1 solved">
+      <change beforePath="$PROJECT_DIR$/.idea/Comp 4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp 4.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +39,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\abhin\Documents\sussy stuff\java\CipherSchools\Comp 4.0\.idea" />
       <recent name="C:\Users\abhin\Documents\sussy stuff\java\CipherSchools\Comp 4.0" />
+      <recent name="C:\Users\abhin\Documents\sussy stuff\java\CipherSchools\Comp 4.0\.idea" />
     </key>
   </component>
   <component name="RunManager">
@@ -77,11 +73,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699277751631</updated>
-      <workItem from="1699277752852" duration="2007000" />
+      <workItem from="1699277752852" duration="6011000" />
     </task>
+    <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
+      <created>1699280426442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699280426442</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 1 Problem 1 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1 Problem 1 solved" />
   </component>
 </project>
