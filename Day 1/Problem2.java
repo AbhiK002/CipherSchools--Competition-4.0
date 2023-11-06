@@ -24,7 +24,7 @@ class DoublyNode {
 }
 
 
-public class Solution12 {
+public class Problem2 {
     public static DoublyNode quickSort(DoublyNode head) {
         if (head == null || head.next == null)
             return head;

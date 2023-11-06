@@ -21,7 +21,7 @@ class Node {
     }
 }
 
-public class Solution11 {
+public class Problem1 {
     public static Node getListAfterReverseOperation(Node head, int n, int b[]) {
         Node root = new Node(0);
         root.next = head;
@@ -80,29 +80,45 @@ public class Solution11 {
 
     public static void main(String[] args) {
         Node head; int n, b[];
+        System.out.println("PROBLEM 1");
 
         // Testcase 1
         head = convertToLinkedList(new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, -1});
-        n = 3;
-        b = new int[]{2, 3, 4};
+        n = 3; b = new int[]{2, 3, 4};
         System.out.println(
-                Solution11.getListAfterReverseOperation(head, n, b)
+                Problem1.getListAfterReverseOperation(head, n, b)
         );
 
         // Testcase 2
         head = convertToLinkedList(new int[]{0, 6, 1, 5, -1});
-        n = 2;
-        b = new int[]{2, 3};
+        n = 2; b = new int[]{2, 3};
         System.out.println(
-                Solution11.getListAfterReverseOperation(head, n, b)
+                Problem1.getListAfterReverseOperation(head, n, b)
         );
 
         // Testcase 3
         head = convertToLinkedList(new int[]{5, 7, 8, 2, 4, -1});
-        n = 3;
-        b = new int[]{1, 0, 2};
+        n = 3; b = new int[]{1, 0, 2};
         System.out.println(
-                Solution11.getListAfterReverseOperation(head, n, b)
+                Problem1.getListAfterReverseOperation(head, n, b)
         );
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
