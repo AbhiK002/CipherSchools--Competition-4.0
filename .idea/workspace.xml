@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 1 Screenshots added + Refactors">
+    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 2 completed, a struggle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comp 4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp 4.0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Problem3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699277751631</updated>
       <workItem from="1699277752852" duration="8087000" />
-      <workItem from="1699366358740" duration="2510000" />
+      <workItem from="1699366358740" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
       <created>1699280426442</created>
@@ -110,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699289160440</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 2 completed, a struggle">
+      <created>1699381305004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699381305004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +138,7 @@
     <MESSAGE value="Day 1 Problem 1 solved" />
     <MESSAGE value="Day 1 completed" />
     <MESSAGE value="Day 1 Screenshots added + Refactors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1 Screenshots added + Refactors" />
+    <MESSAGE value="Day 2 completed, a struggle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 completed, a struggle" />
   </component>
 </project>
