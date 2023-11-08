@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 2 completed, a struggle">
+    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 2 screenshots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 2/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Comp 4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp 4.0.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,24 +32,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\abhin\Documents\sussy stuff\java\CipherSchools\Comp 4.0" />
@@ -57,13 +57,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="BruhRunItFFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BruhRunItFFS" />
-      <module name="Comp 4.0" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Problem1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem1" />
       <module name="Comp 4.0" />
@@ -73,7 +66,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BruhRunItFFS" />
         <item itemvalue="Application.Problem1" />
       </list>
     </recent_temporary>
@@ -88,6 +80,8 @@
       <updated>1699277751631</updated>
       <workItem from="1699277752852" duration="8087000" />
       <workItem from="1699366358740" duration="2895000" />
+      <workItem from="1699381674808" duration="65000" />
+      <workItem from="1699458348499" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
       <created>1699280426442</created>
@@ -117,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699381305004</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Day 2 screenshots">
+      <created>1699381729764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699381729764</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +140,7 @@
     <MESSAGE value="Day 1 completed" />
     <MESSAGE value="Day 1 Screenshots added + Refactors" />
     <MESSAGE value="Day 2 completed, a struggle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 completed, a struggle" />
+    <MESSAGE value="Day 2 screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 screenshots" />
   </component>
 </project>
