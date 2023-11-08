@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 2 screenshots">
+    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 3 problem 1">
+      <change afterPath="$PROJECT_DIR$/Day 3/Problem5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Comp 4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp 4.0.iml" afterDir="false" />
     </list>
@@ -81,7 +82,7 @@
       <workItem from="1699277752852" duration="8087000" />
       <workItem from="1699366358740" duration="2895000" />
       <workItem from="1699381674808" duration="65000" />
-      <workItem from="1699458348499" duration="735000" />
+      <workItem from="1699458348499" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
       <created>1699280426442</created>
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699381729764</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 3 problem 1">
+      <created>1699459740551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699459740551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +149,7 @@
     <MESSAGE value="Day 1 Screenshots added + Refactors" />
     <MESSAGE value="Day 2 completed, a struggle" />
     <MESSAGE value="Day 2 screenshots" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 2 screenshots" />
+    <MESSAGE value="Day 3 problem 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 problem 1" />
   </component>
 </project>
