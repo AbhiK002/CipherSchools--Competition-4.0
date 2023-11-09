@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 3 problem 1">
-      <change afterPath="$PROJECT_DIR$/Day 3/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 3/Problem6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comp 4.0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Comp 4.0.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Xnve5JOswOyFla6BAZNTDWwpK5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -82,7 +83,10 @@
       <workItem from="1699277752852" duration="8087000" />
       <workItem from="1699366358740" duration="2895000" />
       <workItem from="1699381674808" duration="65000" />
-      <workItem from="1699458348499" duration="1041000" />
+      <workItem from="1699458348499" duration="2308000" />
+      <workItem from="1699475920814" duration="702000" />
+      <workItem from="1699510592180" duration="899000" />
+      <workItem from="1699519135229" duration="3766000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
       <created>1699280426442</created>
@@ -126,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699459740551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 3 problem 1">
+      <created>1699462749645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699462749645</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
