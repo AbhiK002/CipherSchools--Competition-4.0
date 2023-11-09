@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 3 problem 1">
-      <change afterPath="$PROJECT_DIR$/Day 3/Problem6.java" afterDir="false" />
+    <list default="true" id="516c4415-9033-40f4-9ff4-cc0eca993d23" name="Changes" comment="Day 3 problem 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +21,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Day 1/Problem1.java" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Day 3/Problem5.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,7 +86,7 @@
       <workItem from="1699458348499" duration="2308000" />
       <workItem from="1699475920814" duration="702000" />
       <workItem from="1699510592180" duration="899000" />
-      <workItem from="1699519135229" duration="3766000" />
+      <workItem from="1699519135229" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="Day 1 Problem 1 solved">
       <created>1699280426442</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699462749645</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Day 3 problem 2">
+      <created>1699522994677</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699522994677</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +168,7 @@
     <MESSAGE value="Day 2 completed, a struggle" />
     <MESSAGE value="Day 2 screenshots" />
     <MESSAGE value="Day 3 problem 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 3 problem 1" />
+    <MESSAGE value="Day 3 problem 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 3 problem 2" />
   </component>
 </project>
